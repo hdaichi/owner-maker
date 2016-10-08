@@ -19,3 +19,24 @@
 </head>
 
 <body>
+
+<div id="header">
+  <div id="header-logo-home">
+    <img src="img/common/logo.png" alt="OWNER MAKER logo" />
+  </div>
+
+  <div id="header-logo-menu">
+    <div id="header-navi1">
+      <img src="img/common/navi_01.png" alt="OWNER MAKER ナビ画像01" />
+    </div>
+    <div id="header-navi2">
+      <img src="img/common/navi_02.png" alt="OWNER MAKER ナビ画像02" />
+    </div>
+    <div id="header-navi2">
+      <img src="img/common/navi_03.png" alt="OWNER MAKER ナビ画像03" />
+    </div>
+    <div id="header-navi2">
+      <img src="img/common/navi_04.png" alt="OWNER MAKER ナビ画像04" />
+    </div>
+  </div>
+</div>
