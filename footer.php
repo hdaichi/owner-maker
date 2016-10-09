@@ -5,7 +5,7 @@
     </div>
   </div>
 
-  <div class="text-center footer-copyright">Copyright © 2016 OWNER MAKER inc. All Rights Reserved</div>
+  <div class="text-center footer-copyright">Copyright © 2016 OWNER MAKERinc. All Rights Reserved</div>
 
 </div>
 
