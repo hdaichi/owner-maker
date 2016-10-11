@@ -52,13 +52,14 @@ body {
 .footer-index {
   background-color: #fff;
   color: #000;
-  height: 50px;
+  height: 60px;
   vertical-align: middle;
 }
 .footer-copyright {
   background-color: #000;
   color: #fff;
-  height: 50px;
+  height: 40px;
+  padding-top: 30px;
   vertical-align: middle;
 }
 
