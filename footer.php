@@ -9,6 +9,7 @@
 
 </div>
 
+</div>
 </body>
 
 <!--[if lt IE 9]>
