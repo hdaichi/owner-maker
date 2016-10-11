@@ -10,19 +10,19 @@
 
 <table class="tg">
   <tr>
-    <th class="tg-left">社名</th>
-    <th class="tg-right">OWNER MAKER inc</th>
+    <th class="tg-left tg-left-top">社　　名</th>
+    <th class="tg-right tg-right-top">OWNER MAKER inc</th>
   </tr>
   <tr>
-    <td class="tg-left">設立日</td>
+    <td class="tg-left">設 立 日</td>
     <td class="tg-right">2016年xx月</td>
   </tr>
   <tr>
-    <td class="tg-left">資本金</td>
+    <td class="tg-left">資 本 金</td>
     <td class="tg-right">YYYY万円</td>
   </tr>
   <tr>
-    <td class="tg-left">代表者</td>
+    <td class="tg-left">代 表 者</td>
     <td class="tg-right">渕上瑞樹</td>
   </tr>
   <tr>
@@ -46,8 +46,8 @@
     <td class="tg-right">4 事業内容4</td>
   </tr>
   <tr>
-    <td class="tg-left"></td>
-    <td class="tg-right">5 事業内容5</td>
+    <td class="tg-left tg-left-bottom"></td>
+    <td class="tg-right tg-right-bottom">5 事業内容5</td>
   </tr>
 </table>
 
