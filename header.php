@@ -27,7 +27,9 @@
 
   <div id="header-logo-menu">
     <div id="header-navi1">
-      <img src="img/common/navi_01.png" alt="OWNER MAKER ナビ画像01" />
+      <a href="aboutus.php">
+        <img src="img/common/navi_01.png" alt="OWNER MAKER ナビ画像01" />
+      </a>
     </div>
     <div id="header-navi2">
       <img src="img/common/navi_02.png" alt="OWNER MAKER ナビ画像02" />

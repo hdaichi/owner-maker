@@ -77,13 +77,13 @@ Description: AIR official theme
   }
 
   #header-logo-home {
-    background: url(img/main.png) no-repeat;
+    /*background: url(img/main.png) no-repeat; */
     width: 100%;
     margin: 0;
     padding: 0;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     text-align: left;
-    background-size: 200%;
+    /*background-size: 200%; */
   }
   #header-logo-news {
     background: url(img/news/news_01.png) no-repeat;
@@ -168,15 +168,14 @@ Description: AIR official theme
 @media (min-width: 768px) { /*幅768px以上で適用されるスタイル*/
 
   #header-logo-home {
-    background: url(img/main.png) no-repeat;
+    /*background: url(img/main.png) no-repeat; */
     width: 100%;
-    min-width: 1024px;
-    height: 560px;
+    /*min-width: 1024px;*/
     margin: 0;
     padding: 0;
-    margin-bottom: 60px;
+    margin-bottom: 10px;
     text-align: left;
-    background-size: 100%;
+    /*background-size: 100%; */
   }
 
   #header-logo-news {
