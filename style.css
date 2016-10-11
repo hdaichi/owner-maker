@@ -6,6 +6,37 @@ Theme Url: http://air-works.jp/wordpress/
 Description: AIR official theme
 */
 
+.tg  {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.tg td {
+  font-size:14px;
+  padding:10px 10px;
+  border-style:solid;
+  border-width:0px;
+  overflow:hidden;
+  word-break:normal;
+  border-top-width:1px;
+  border-bottom-width:1px;
+}
+.tg th {
+  font-size:14px;
+  font-weight:normal;
+  padding:10px 10px;
+  border-style:solid;
+  border-width:0px;
+  overflow:hidden;
+  word-break:normal;
+  border-top-width:1px;
+  border-bottom-width:1px;
+}
+.tg .tg-left{
+  text-align:center;
+  text-justify: 8;
+  border-right-width:1px;
+}
+
 .footer {
   margin-top: 70px;
   background-color: #eaeaea;
@@ -81,12 +112,12 @@ Description: AIR official theme
   }
   #top-center-str{
     width: 90%;
-    padding: 20px 0 10px 0; 
+    padding: 20px 0 10px 0;
     margin: 0;
   }
   #top-center-str > img{
     width: 70%;
-    padding: 20px 0 10px 0; 
+    padding: 20px 0 10px 0;
   }
 
   #navi-menus {
@@ -229,7 +260,7 @@ Description: AIR official theme
   }
 
   #top-center-str{
-    padding: 200px 0 170px 0; 
+    padding: 200px 0 170px 0;
   }
 
   #top-news, #bottom-news {
