@@ -4,11 +4,11 @@
   <img src="img/company/title.png" alt="企業概要" />
 </div>
 
-<div class="img-center">
+<div class="img-center contents">
   <img src="img/company/title_2.png" alt="会社概要" />
 </div>
 
-<table class="tg">
+<table class="tg contents">
   <tr>
     <th class="tg-left tg-left-top">社　　名</th>
     <th class="tg-right tg-right-top">OWNER MAKER inc</th>
