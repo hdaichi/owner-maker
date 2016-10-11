@@ -4,7 +4,7 @@
   <img src="img/message/title.png" alt="代表挨拶" />
 </div>
 
-<div class="img-center">
+<div class="img-center contents">
   <img src="img/message/title_2.png" alt="会社概要" />
 </div>
 

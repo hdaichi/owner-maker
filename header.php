@@ -23,7 +23,9 @@
 
 <div id="header">
   <div id="header-logo-home">
-    <img src="img/common/logo.png" alt="OWNER MAKER logo" />
+    <a href="index.php">
+      <img src="img/common/logo.png" alt="OWNER MAKER logo" />
+    </a>
   </div>
 
   <div id="header-logo-menu">
