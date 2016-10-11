@@ -1,17 +1,7 @@
 @charset "utf-8";
 
-/*
-Theme Name: air_theme
-Theme Url: http://air-works.jp/wordpress/
-Description: AIR official theme
-*/
-
 body {
   margin: 0;
-}
-
-.header-navi a {
-  text-decoration: none;
 }
 
 .tg  {
@@ -19,7 +9,6 @@ body {
   border-spacing: 0;
 }
 .tg td {
-  font-size:14px;
   padding:10px 10px;
   border-style:solid;
   border-width:0px;
@@ -29,7 +18,6 @@ body {
   border-bottom-width:1px;
 }
 .tg th {
-  font-size:14px;
   font-weight:normal;
   padding:10px 10px;
   border-style:solid;
@@ -78,6 +66,7 @@ body {
 
 .clear { clear: both; }
 .text-center { text-align: center; }
+.header-navi { text-decoration: none; }
 
 #header { width: 100%; }
 #header-img { width: 100%; }
