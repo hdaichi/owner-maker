@@ -46,8 +46,13 @@ body {
 }
 
 .footer {
-  margin-top: 70px;
-  background-color: #eaeaea;
+  margin-top: 100px;
+  background-color: #000;
+  color: #fff;
+}
+.footer-copyright {
+  height: 50px;
+  vertical-align: middle;
 }
 
 #footer-nav {
@@ -71,9 +76,13 @@ body {
   margin-top: 30px;
 }
 
-#header { width: 100%;}
-#header-logo-home { float: left;}
-#header-logo-menu { float: right;}
+.clear { clear: both; }
+.text-center { text-align: center; }
+
+#header { width: 100%; }
+#header-img { width: 100%; }
+#header-logo-home { float: left; }
+#header-logo-menu { float: right; }
 
 @media (max-width: 767px) {
 
