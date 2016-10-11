@@ -6,6 +6,10 @@ Theme Url: http://air-works.jp/wordpress/
 Description: AIR official theme
 */
 
+a .header-navi {
+  text-decoration: none;
+}
+
 .tg  {
   border-collapse: collapse;
   border-spacing: 0;

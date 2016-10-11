@@ -26,19 +26,17 @@
   </div>
 
   <div id="header-logo-menu">
-    <div id="header-navi1">
-      <a href="aboutus.php">
-        <img src="img/common/navi_01.png" alt="OWNER MAKER ナビ画像01" />
-      </a>
-    </div>
-    <div id="header-navi2">
-      <img src="img/common/navi_02.png" alt="OWNER MAKER ナビ画像02" />
-    </div>
-    <div id="header-navi2">
-      <img src="img/common/navi_03.png" alt="OWNER MAKER ナビ画像03" />
-    </div>
-    <div id="header-navi2">
-      <img src="img/common/navi_04.png" alt="OWNER MAKER ナビ画像04" />
-    </div>
+    <a class="header-navi" href="aboutus.php">
+      <img src="img/common/navi_01<?php if (basename($_SERVER['PHP_SELF']) == 'company.php' echo '_on' ?>.png" alt="OWNER MAKER について" />
+    </a>
+    <a class="header-navi" href="company.php">
+      <img src="img/common/navi_02<?php if (basename($_SERVER['PHP_SELF']) == 'company.php' echo '_on' ?>.png" alt="会社概要" />
+    </a>
+    <a class="header-navi" href="business.php">
+      <img src="img/common/navi_03<?php if (basename($_SERVER['PHP_SELF']) == 'company.php' echo '_on' ?>.png" alt="事業内容" />
+    </a>
+    <a class="header-navi" href="message.php">
+      <img src="img/common/navi_04<?php if (basename($_SERVER['PHP_SELF']) == 'company.php' echo '_on' ?>.png" alt="代表あいさつ" />
+    </a>
   </div>
 </div>
