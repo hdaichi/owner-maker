@@ -1,7 +1,7 @@
 </div><!-- container -->j
 
 <div class="footer">
-  <div id="footer-nav">
+  <div id="footer-nav footer-copyright">
     <div class="text-center">
     </div>
   </div>

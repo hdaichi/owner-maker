@@ -5,7 +5,7 @@
 </div>
 
 <div class="img-center contents">
-  <img src="img/company/title_2.png" alt="事業内容" />
+  <img src="img/business/title_2.png" alt="事業内容" />
 </div>
 
 <?php include 'footer.php'; ?>

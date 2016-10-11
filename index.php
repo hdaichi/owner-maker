@@ -6,4 +6,4 @@
   <img src="img/common/main_03.png" alt="OWNER MAKER イメージ画像03" />
 </div>
 
-<?php include 'footer.php'; ?>
+<?php include 'footer_index.php'; ?>
