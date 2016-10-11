@@ -27,16 +27,16 @@
 
   <div id="header-logo-menu">
     <a class="header-navi" href="aboutus.php">
-      <img src="img/common/navi_01<?php if (basename($_SERVER['PHP_SELF']) == 'company.php' echo '_on' ?>.png" alt="OWNER MAKER について" />
+      <img src="img/common/navi_01<?php if (basename($_SERVER['PHP_SELF']) == 'aboutus.php') echo '_on' ?>.png" alt="OWNER MAKER について" />
     </a>
     <a class="header-navi" href="company.php">
-      <img src="img/common/navi_02<?php if (basename($_SERVER['PHP_SELF']) == 'company.php' echo '_on' ?>.png" alt="会社概要" />
+      <img src="img/common/navi_02<?php if (basename($_SERVER['PHP_SELF']) == 'company.php') echo '_on' ?>.png" alt="会社概要" />
     </a>
     <a class="header-navi" href="business.php">
-      <img src="img/common/navi_03<?php if (basename($_SERVER['PHP_SELF']) == 'company.php' echo '_on' ?>.png" alt="事業内容" />
+      <img src="img/common/navi_03<?php if (basename($_SERVER['PHP_SELF']) == 'business.php') echo '_on' ?>.png" alt="事業内容" />
     </a>
     <a class="header-navi" href="message.php">
-      <img src="img/common/navi_04<?php if (basename($_SERVER['PHP_SELF']) == 'company.php' echo '_on' ?>.png" alt="代表あいさつ" />
+      <img src="img/common/navi_04<?php if (basename($_SERVER['PHP_SELF']) == 'message.php') echo '_on' ?>.png" alt="代表あいさつ" />
     </a>
   </div>
 </div>
