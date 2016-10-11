@@ -66,7 +66,11 @@ body {
 
 .clear { clear: both; }
 .text-center { text-align: center; }
-.header-navi { text-decoration: none; }
+.header-navi {
+  text-decoration: none;
+  margin-right: -2px;
+  margin-bottom: -3px;
+}
 
 #header { width: 100%; }
 #header-img { width: 100%; }
