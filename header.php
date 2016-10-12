@@ -15,6 +15,26 @@
 <title>OWNER MAKER</title>
 
 <link rel="stylesheet" type="text/css" href="style.css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="./js/jquery.carouFredSel-6.2.0-packed.js"></script>
+
+<script>
+  $(function() {
+  	$('#carousel').carouFredSel({
+  		responsive: true,
+  		items: {
+  			visible: 1,
+  			width: 900,
+  			height: 500
+  		},
+  		scroll: {
+  			duration: 1500,
+  			timeoutDuration: 5000,
+  			fx: 'crossfade'
+  		},
+  	});
+  });
+</script>
 
 </head>
 
