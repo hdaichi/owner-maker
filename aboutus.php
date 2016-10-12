@@ -5,6 +5,10 @@
 </div>
 
 <div class="img-center contents">
+  <img src="img/aboutus/title_logo.png" alt="ロゴ" />
+</div>
+
+<div class="img-center contents">
   <img src="img/aboutus/title_2.png" alt="ミッション" />
 </div>
 
