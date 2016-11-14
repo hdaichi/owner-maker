@@ -11,15 +11,15 @@
 <table class="tg contents">
   <tr>
     <th class="tg-left tg-left-top">社　　名</th>
-    <th class="tg-right tg-right-top">OWNER MAKER inc</th>
+    <th class="tg-right tg-right-top">OWNERMAKER inc</th>
   </tr>
   <tr>
     <td class="tg-left">設 立 日</td>
-    <td class="tg-right">2016年xx月</td>
+    <td class="tg-right">平成21年9月11日</td>
   </tr>
   <tr>
     <td class="tg-left">資 本 金</td>
-    <td class="tg-right">YYYY万円</td>
+    <td class="tg-right">万円</td>
   </tr>
   <tr>
     <td class="tg-left">代 表 者</td>
@@ -27,27 +27,15 @@
   </tr>
   <tr>
     <td class="tg-left">取引銀行</td>
-    <td class="tg-right">BBB銀行</td>
+    <td class="tg-right">三菱東京UFJ銀行</td>
   </tr>
   <tr>
     <td class="tg-left">事業内容</td>
-    <td class="tg-right">1 事業内容1</td>
-  </tr>
-  <tr>
-    <td class="tg-left"></td>
-    <td class="tg-right">2 事業内容2</td>
-  </tr>
-  <tr>
-    <td class="tg-left"></td>
-    <td class="tg-right">3 事業内容3</td>
-  </tr>
-  <tr>
-    <td class="tg-left"></td>
-    <td class="tg-right">4 事業内容4</td>
+    <td class="tg-right">講演会、研修、イベントの会場手配と運営</td>
   </tr>
   <tr>
     <td class="tg-left tg-left-bottom"></td>
-    <td class="tg-right tg-right-bottom">5 事業内容5</td>
+    <td class="tg-right tg-right-bottom">人材派遣</td>
   </tr>
 </table>
 
