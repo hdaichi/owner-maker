@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td class="tg-left">資 本 金</td>
-    <td class="tg-right">万円</td>
+    <td class="tg-right">100万円</td>
   </tr>
   <tr>
     <td class="tg-left">代 表 者</td>
