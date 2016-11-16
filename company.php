@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td class="tg-left">設 立 日</td>
-    <td class="tg-right">平成21年9月11日</td>
+    <td class="tg-right">平成21年 9月 11日</td>
   </tr>
   <tr>
     <td class="tg-left">資 本 金</td>
