@@ -11,7 +11,7 @@
 <table class="tg contents">
   <tr>
     <th class="tg-left tg-left-top">社　　名</th>
-    <th class="tg-right tg-right-top">OWNERMAKER inc</th>
+    <th class="tg-right tg-right-top">株式会社オーナーメーカー</th>
   </tr>
   <tr>
     <td class="tg-left">設 立 日</td>

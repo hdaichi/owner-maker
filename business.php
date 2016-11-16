@@ -24,7 +24,7 @@
     <table>
       <tr>
         <td style="padding-right:40px;">
-          <img src="img/business/business_img02.jpg" width="203" height="135" alt="講演会" />
+          <img src="img/business/business_img03.jpg" width="203" height="135" alt="講演会" />
         </td>
         <td style="padding:1px; background-color:#bbb;"></td>
         <td style="padding-left:40px;">1000～2000名クラスの講演会運営<br /><br />年間 30講演以上</td>
@@ -35,7 +35,7 @@
     <table>
       <tr>
         <td style="padding-right:40px;">
-          <img src="img/business/business_img03.jpg" width="203" height="135" alt="セミナー手配" />
+          <img src="img/business/business_img02.jpg" width="203" height="135" alt="セミナー手配" />
         </td>
         <td style="padding:1px; background-color:#bbb;"></td>
         <td style="padding-left:40px;">セミナー手配運営<br /><br />年間 200件以上</td>
