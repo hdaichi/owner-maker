@@ -10,7 +10,7 @@
 <meta name="robots" content="" />
 <meta name="description" content="" />
 <meta name="keywords" content="" />
-<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>OWNER MAKER</title>
 
@@ -51,25 +51,25 @@
   <div id="header-logo-menu">
     <a href="aboutus.php" class="header-navi">
       <img src="img/common/navi_01<?php if (basename($_SERVER['PHP_SELF']) == 'aboutus.php') echo '_on' ?>.png"
-           alt="OWNER MAKER について" width="163" height="86"
+           alt="OWNER MAKER について"
            onmouseover="this.src='img/common/navi_01_on.png'"
            onmouseout="this.src='img/common/navi_01.png'" />
     </a>
     <a href="company.php" class="header-navi">
       <img src="img/common/navi_02<?php if (basename($_SERVER['PHP_SELF']) == 'company.php') echo '_on' ?>.png"
-           alt="会社概要" width="163" height="86"
+           alt="会社概要"
            onmouseover="this.src='img/common/navi_02_on.png'"
            onmouseout="this.src='img/common/navi_02.png'" />
     </a>
     <a href="business.php" class="header-navi">
       <img src="img/common/navi_03<?php if (basename($_SERVER['PHP_SELF']) == 'business.php') echo '_on' ?>.png"
-           alt="事業内容" width="163" height="86"
+           alt="事業内容"
            onmouseover="this.src='img/common/navi_03_on.png'"
            onmouseout="this.src='img/common/navi_03.png'" />
     </a>
     <a href="message.php" class="header-navi">
       <img src="img/common/navi_04<?php if (basename($_SERVER['PHP_SELF']) == 'message.php') echo '_on' ?>.png"
-           alt="代表あいさつ" width="163" height="86"
+           alt="代表あいさつ"
            onmouseover="this.src='img/common/navi_04_on.png'"
            onmouseout="this.src='img/common/navi_04.png'" />
     </a>

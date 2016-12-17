@@ -12,8 +12,8 @@
   <div class="center" style="margin:30px 0;">
     <table>
       <tr>
-        <td style="padding-right:40px;">
-          <img src="img/business/business_img01.jpg" width="203" height="135" alt="音楽イベント" />
+        <td class="business-img">
+          <img src="img/business/business_img01.jpg" alt="音楽イベント" />
         </td>
         <td style="padding:1px; background-color:#bbb;"></td>
         <td style="padding-left:40px;">音楽イベント運営<br /><br />年間 3講演以上</td>
@@ -23,8 +23,8 @@
   <div class="center" style="margin:30px 0;">
     <table>
       <tr>
-        <td style="padding-right:40px;">
-          <img src="img/business/business_img03.jpg" width="203" height="135" alt="講演会" />
+        <td class="business-img">
+          <img src="img/business/business_img03.jpg" alt="講演会" />
         </td>
         <td style="padding:1px; background-color:#bbb;"></td>
         <td style="padding-left:40px;">1000～2000名クラスの講演会運営<br /><br />年間 30講演以上</td>
@@ -34,8 +34,8 @@
   <div class="center" style="margin:30px 0;">
     <table>
       <tr>
-        <td style="padding-right:40px;">
-          <img src="img/business/business_img02.jpg" width="203" height="135" alt="セミナー手配" />
+        <td class="business-img">
+          <img src="img/business/business_img02.jpg" alt="セミナー手配" />
         </td>
         <td style="padding:1px; background-color:#bbb;"></td>
         <td style="padding-left:40px;">セミナー手配運営<br /><br />年間 200件以上</td>
@@ -45,8 +45,8 @@
   <div class="center" style="margin:30px 0;">
     <table>
       <tr>
-        <td style="padding-right:40px;">
-          <img src="img/business/business_img04.jpg" width="203" height="135" alt="その他イベント協賛" />
+        <td class="business-img">
+          <img src="img/business/business_img04.jpg" alt="その他イベント協賛" />
         </td>
         <td style="padding:1px; background-color:#bbb;"></td>
         <td style="padding-left:40px;">その他 イベント協賛 多数</td>

@@ -9,6 +9,12 @@
 	top: 50%;
 	left: 0;
 }
+@media (max-width: 767px) {
+  #wrapper {
+	  width: 100%;
+  }
+}
+
 #carousel div {
 	height: 500px;
 	float: left;
@@ -37,6 +43,14 @@
 	color: #fff;
 	margin: 0;
 }
+@media (max-width: 767px) {
+  #title h3 img {
+		width: 90%;
+		padding: 0 10px;
+		margin-top: 50px;
+	}
+}
+
 #title a {
 	color: #fff;
 }
@@ -47,11 +61,6 @@
 
 body {
   margin: 0;
-}
-
-.contents {
-  width: 700px;
-  margin: 60px auto;
 }
 
 .center > p { text-align: center;}
@@ -82,6 +91,12 @@ body {
   border-bottom-width:1px;
   border-color: #bbb;
 }
+@media (max-width: 767px) {
+  .tg td, .tg th  {
+		font-size: 10px;
+    padding:10px 20px;
+  }
+}
 .tg .tg-left{
   text-align:center;
   border-right-width:1px;
@@ -108,6 +123,13 @@ body {
   padding-top: 30px;
   vertical-align: middle;
 }
+@media (max-width: 767px) {
+  .footer-copyright {
+		font-size: 10px;
+    height: 30px;
+    padding-top: 10px;
+  }
+}
 
 #footer-nav {
   padding: 20px 0;
@@ -132,21 +154,47 @@ body {
 
 .clear { clear: both; }
 .text-center { text-align: center; }
+
 .header-navi {
   text-decoration: none;
   margin-bottom: -5px;
+}
+.header-navi img {
+	width: 163px;
+	height: 83px;
+}
+@media (max-width: 767px) {
+  .header-navi img {
+	  width: 23%;
+	  height: auto;
+  }
 }
 
 #header { width: 100%; }
 #header-img { width: 100%; }
 #header-img > img { width: 100%; }
 #header-logo-home { float: left; }
+
 #header-logo-menu { float: right; }
+@media (max-width: 767px) {
+  #header-logo-menu { padding-left: 10px; }
+}
+
+.business-img { padding-right: 40px;}
+.business-img > img { width: 203px; height: 103px;}
+@media (max-width: 767px) {
+  .business-img { padding: 0 10px;}
+  .business-img > img { width: 101px; height: 67px;}
+}
 
 @media (max-width: 767px) {
 
   .container {
     overflow: hidden;
+  }
+  .contents {
+    width: 100%;
+    margin: 30px auto;
   }
 
   #header-logo-home {
@@ -221,6 +269,10 @@ body {
 }
 
 @media (min-width: 768px) { /*幅768px以上で適用されるスタイル*/
+.contents {
+  width: 700px;
+  margin: 60px auto;
+}
 
   #header {
     width: 100%;
