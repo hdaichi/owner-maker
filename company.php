@@ -31,11 +31,11 @@
   </tr>
   <tr>
     <td class="tg-left">事業内容</td>
-    <td class="tg-right">講演会、研修、イベントの会場手配と運営</td>
+    <td class="tg-right">講演会会場手配／運営</td>
   </tr>
   <tr>
     <td class="tg-left tg-left-bottom"></td>
-    <td class="tg-right tg-right-bottom">人材派遣</td>
+    <td class="tg-right tg-right-bottom">研修・イベント会場手配／運営</td>
   </tr>
 </table>
 
