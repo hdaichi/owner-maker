@@ -71,7 +71,7 @@ body {
   border-spacing: 0;
 }
 .tg td {
-  padding:20px 30px;
+  padding:10px 15px;
   border-style:solid;
   border-width:0px;
   overflow:hidden;
@@ -82,7 +82,7 @@ body {
 }
 .tg th {
   font-weight:normal;
-  padding:15px 30px;
+  padding:10px 15px;
   border-style:solid;
   border-width:0px;
   overflow:hidden;
@@ -98,6 +98,7 @@ body {
   }
 }
 .tg .tg-left{
+	width: 50px;
   text-align:center;
   border-right-width:1px;
   border-color: #bbb;
