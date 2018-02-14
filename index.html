@@ -1,0 +1,104 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="ja">
+
+<head>
+
+<meta http-equiv="Content-Language" content="ja" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta name="robots" content="" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>OWNER MAKER</title>
+
+<link rel="stylesheet" type="text/css" href="style.css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script src="./js/jquery.carouFredSel-6.2.0-packed.js"></script>
+
+<script>
+  $(function() {
+  	$('#carousel').carouFredSel({
+  		responsive: true,
+  		items: {
+  			visible: 1,
+  			width: 900,
+  			height: 500
+  		},
+  		scroll: {
+  			duration: 1500,
+  			timeoutDuration: 5000,
+  			fx: 'crossfade'
+  		},
+  	});
+  });
+</script>
+
+</head>
+
+<body>
+<div id="container">
+
+<div id="header">
+  <div id="header-logo-home">
+    <a href="index.html">
+      <img src="img/common/logo.png" alt="OWNER MAKER logo" />
+    </a>
+  </div>
+
+  <div id="header-logo-menu">
+    <a href="aboutus.html" class="header-navi">
+      <img src="img/common/navi_01.png"
+           alt="OWNER MAKER について"
+           onmouseover="this.src='img/common/navi_01_on.png'"
+           onmouseout="this.src='img/common/navi_01.png'" />
+    </a>
+    <a href="company.html" class="header-navi">
+      <img src="img/common/navi_02.png"
+           alt="会社概要"
+           onmouseover="this.src='img/common/navi_02_on.png'"
+           onmouseout="this.src='img/common/navi_02.png'" />
+    </a>
+    <a href="business.html" class="header-navi">
+      <img src="img/common/navi_03.png"
+           alt="事業内容"
+           onmouseover="this.src='img/common/navi_03_on.png'"
+           onmouseout="this.src='img/common/navi_03.png'" />
+    </a>
+    <a href="message.html" class="header-navi">
+      <img src="img/common/navi_04.png"
+           alt="代表あいさつ"
+           onmouseover="this.src='img/common/navi_04_on.png'"
+           onmouseout="this.src='img/common/navi_04.png'" />
+    </a>
+  </div>
+</div>
+
+<div class="clear"></div>
+
+
+<div id="wrapper">
+	<div id="carousel">
+    <div><img src="img/common/main_01.png" alt="OWNER MAKER イメージ画像01" /></div>
+    <div><img src="img/common/main_02.png" alt="OWNER MAKER イメージ画像02" /></div>
+    <div><img src="img/common/main_03.png" alt="OWNER MAKER イメージ画像03" /></div>
+	</div>
+	<div id="title">
+    <h3><img src="img/common/main_txt.png" alt="OWNER MAKER コンセプト" /></h3>
+	</div>
+</div>
+
+</div><!-- container -->
+
+<div class="footer">
+  <div class="text-center footer-index">Copyright Â© 2016 OWNERMAKER inc. All Rights Reserved</div>
+</div>
+
+</body>
+
+<!--[if lt IE 9]>
+<![endif]-->
+
+</html>
